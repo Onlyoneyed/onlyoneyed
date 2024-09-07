@@ -3,7 +3,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+__INCONNU-V2+BUG+-BOT 🦠__;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPED+BY+INCONNU TECH⭐+LORD;REALESE+DATE+10%2F8%2F2023." alt="Typing SVG" /></a>
 </p>
-                     # Inconnu-V2-MD
+                     # Onlyoneyed
                🦠 WhatsApp bug X Crash-Bot 🦠
   
 
@@ -160,7 +160,7 @@ npm i -g forever && forever index.js && forever save && forever logs
 - *
 
 
-<h2 align="center"> 🎗️ *INCONNU-V2-MD*
+<h2 align="center"> 🎗️ *Onlyoneyed*
 </h2>
 
  
